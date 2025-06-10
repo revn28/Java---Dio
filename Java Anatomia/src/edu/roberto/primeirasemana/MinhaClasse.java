@@ -1,4 +1,4 @@
-package edu.roberto.primeirasemana;
+package roberto.primeirasemana;
 
 public class MinhaClasse {
     

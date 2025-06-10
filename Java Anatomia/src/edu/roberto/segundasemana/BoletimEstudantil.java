@@ -1,4 +1,4 @@
-package edu.roberto.segundasemana;
+package roberto.segundasemana;
 
 
 public class BoletimEstudantil {
