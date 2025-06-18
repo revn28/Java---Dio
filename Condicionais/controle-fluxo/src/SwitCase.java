@@ -3,20 +3,16 @@ public class SwitCase {
         String sigla = "M";
 
         switch(sigla){
-            case "P":{
+            case "P" -> {
                 System.out.println("Pequeno");
-                break;
             }
-            case "M":{
+            case "M" -> {
                 System.out.println("Medio");
-                break;
             }
-            case "G":{
+            case "G" -> {
                 System.out.println("Grande");
-                break;
             }
-            default:
-                System.out.println("Indefinido");
+            default -> System.out.println("Indefinido");
         }
     }
 }
