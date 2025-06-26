@@ -27,12 +27,6 @@ public class ExercicioWhile {
         lernumeroUsuario.somaTodosNum();
     
     
-    
-    
-    
-    
-    
-    
         }
 }
 
