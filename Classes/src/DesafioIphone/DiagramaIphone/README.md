@@ -26,3 +26,4 @@ O `Iphone.java` demonstra o uso das seguintes funcionalidades simuladas:
 ## Estrutura do Projeto
 
 O projeto é organizado em pacotes para separar as responsabilidades de cada sistema:
+Diagrama UML: https://www.canva.com/design/DAGuXs2iZ-E/Gy8_rGWcr-kFgQOiyAlBWw/edit?utm_content=DAGuXs2iZ-E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
